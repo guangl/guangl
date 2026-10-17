@@ -4,7 +4,7 @@
 
 **好好学习，天天向上。**
 
-在武汉，写一点 Rust 和 Python，折腾自己的开发环境，也记录学习摄影的过程。
+在武汉，写一点 Rust，偶尔写点 Shell 脚本，折腾自己的开发环境，也记录学习摄影的过程。
 
 [个人博客](https://blog.guangluo.top/) · [dotfiles](https://github.com/guangl/dotfiles) · [自托管服务](https://github.com/guangl/homelab-docker)
 
@@ -12,7 +12,7 @@
 
 ## 关于我
 
-- 日常使用 **Rust**、**Python** 和 **TypeScript**，偏爱启动快、内存占用小的工具。
+- 日常主要写 **Rust**，偶尔用 **Shell** 和 **PostgreSQL** 解决手边的问题，偏爱启动快、内存占用小的工具。
 - 用 [chezmoi](https://www.chezmoi.io/) 管理 macOS 与 Windows 两套开发环境，配置都放在 [dotfiles](https://github.com/guangl/dotfiles)。
 - 正在学习摄影，曝光、构图与后期修图的练习笔记都写在[个人博客](https://blog.guangluo.top/)里。
 - 在家里用 Docker Compose 跑一组自托管服务：[homelab-docker](https://github.com/guangl/homelab-docker)。
@@ -21,15 +21,8 @@
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ## 项目
