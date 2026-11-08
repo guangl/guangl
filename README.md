@@ -38,8 +38,8 @@
 ## GitHub 统计
 
 <p align="center">
-  <img height="165" alt="GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=guangl&show_icons=true&hide_border=true&locale=cn&rank_icon=github" />
-  <img height="165" alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangl&layout=compact&hide_border=true&locale=cn&langs_count=7" />
+  <img height="165" alt="GitHub 统计" src="./profile/stats.svg" />
+  <img height="165" alt="常用语言" src="./profile/top-langs.svg" />
 </p>
 
 ---
