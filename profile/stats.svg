@@ -4,7 +4,7 @@
   <text x="24" y="34" fill="#2f80ed" font-family="system-ui,sans-serif" font-size="18" font-weight="600">GitHub 统计</text>
   <g fill="#434d58" font-family="system-ui,sans-serif" font-size="14">
     <text x="24" y="61">公开仓库</text>
-<text x="296" y="61" text-anchor="end">6</text>
+<text x="296" y="61" text-anchor="end">7</text>
 <text x="24" y="84">获星数</text>
 <text x="296" y="84" text-anchor="end">2</text>
 <text x="24" y="107">Fork 数</text>
